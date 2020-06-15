@@ -1,0 +1,20 @@
+C:\Users\vtkac\source\repos\TKACIKDriversLicenseExam\TKACIKDriversLicenseExam\bin\Debug\TKACIKDriversLicenseExam.exe.config
+C:\Users\vtkac\source\repos\TKACIKDriversLicenseExam\TKACIKDriversLicenseExam\bin\Debug\TKACIKDriversLicenseExam.exe
+C:\Users\vtkac\source\repos\TKACIKDriversLicenseExam\TKACIKDriversLicenseExam\bin\Debug\TKACIKDriversLicenseExam.pdb
+C:\Users\vtkac\source\repos\TKACIKDriversLicenseExam\TKACIKDriversLicenseExam\obj\Debug\TKACIKDriversLicenseExam.csprojAssemblyReference.cache
+C:\Users\vtkac\source\repos\TKACIKDriversLicenseExam\TKACIKDriversLicenseExam\obj\Debug\TKACIKDriversLicenseExam.Form1.resources
+C:\Users\vtkac\source\repos\TKACIKDriversLicenseExam\TKACIKDriversLicenseExam\obj\Debug\TKACIKDriversLicenseExam.Properties.Resources.resources
+C:\Users\vtkac\source\repos\TKACIKDriversLicenseExam\TKACIKDriversLicenseExam\obj\Debug\TKACIKDriversLicenseExam.csproj.GenerateResource.cache
+C:\Users\vtkac\source\repos\TKACIKDriversLicenseExam\TKACIKDriversLicenseExam\obj\Debug\TKACIKDriversLicenseExam.csproj.CoreCompileInputs.cache
+C:\Users\vtkac\source\repos\TKACIKDriversLicenseExam\TKACIKDriversLicenseExam\obj\Debug\TKACIKDriversLicenseExam.exe
+C:\Users\vtkac\source\repos\TKACIKDriversLicenseExam\TKACIKDriversLicenseExam\obj\Debug\TKACIKDriversLicenseExam.pdb
+C:\Users\louie\Documents\SCHOOL\Downloads\Louie Tkacik_PersonalFiles_May 8, 2020 102 PM\TKACIKDriversLicenseExam\TKACIKDriversLicenseExam\TKACIKDriversLicenseExam\bin\Debug\TKACIKDriversLicenseExam.exe.config
+C:\Users\louie\Documents\SCHOOL\Downloads\Louie Tkacik_PersonalFiles_May 8, 2020 102 PM\TKACIKDriversLicenseExam\TKACIKDriversLicenseExam\TKACIKDriversLicenseExam\bin\Debug\TKACIKDriversLicenseExam.exe
+C:\Users\louie\Documents\SCHOOL\Downloads\Louie Tkacik_PersonalFiles_May 8, 2020 102 PM\TKACIKDriversLicenseExam\TKACIKDriversLicenseExam\TKACIKDriversLicenseExam\bin\Debug\TKACIKDriversLicenseExam.pdb
+C:\Users\louie\Documents\SCHOOL\Downloads\Louie Tkacik_PersonalFiles_May 8, 2020 102 PM\TKACIKDriversLicenseExam\TKACIKDriversLicenseExam\TKACIKDriversLicenseExam\obj\Debug\TKACIKDriversLicenseExam.csprojAssemblyReference.cache
+C:\Users\louie\Documents\SCHOOL\Downloads\Louie Tkacik_PersonalFiles_May 8, 2020 102 PM\TKACIKDriversLicenseExam\TKACIKDriversLicenseExam\TKACIKDriversLicenseExam\obj\Debug\TKACIKDriversLicenseExam.Form1.resources
+C:\Users\louie\Documents\SCHOOL\Downloads\Louie Tkacik_PersonalFiles_May 8, 2020 102 PM\TKACIKDriversLicenseExam\TKACIKDriversLicenseExam\TKACIKDriversLicenseExam\obj\Debug\TKACIKDriversLicenseExam.Properties.Resources.resources
+C:\Users\louie\Documents\SCHOOL\Downloads\Louie Tkacik_PersonalFiles_May 8, 2020 102 PM\TKACIKDriversLicenseExam\TKACIKDriversLicenseExam\TKACIKDriversLicenseExam\obj\Debug\TKACIKDriversLicenseExam.csproj.GenerateResource.cache
+C:\Users\louie\Documents\SCHOOL\Downloads\Louie Tkacik_PersonalFiles_May 8, 2020 102 PM\TKACIKDriversLicenseExam\TKACIKDriversLicenseExam\TKACIKDriversLicenseExam\obj\Debug\TKACIKDriversLicenseExam.csproj.CoreCompileInputs.cache
+C:\Users\louie\Documents\SCHOOL\Downloads\Louie Tkacik_PersonalFiles_May 8, 2020 102 PM\TKACIKDriversLicenseExam\TKACIKDriversLicenseExam\TKACIKDriversLicenseExam\obj\Debug\TKACIKDriversLicenseExam.exe
+C:\Users\louie\Documents\SCHOOL\Downloads\Louie Tkacik_PersonalFiles_May 8, 2020 102 PM\TKACIKDriversLicenseExam\TKACIKDriversLicenseExam\TKACIKDriversLicenseExam\obj\Debug\TKACIKDriversLicenseExam.pdb
